@@ -1,7 +1,9 @@
 # Compiler-Design
 
 Task #01: Practice regular expression to match patterns. I suggest to practice in the following websites 
+
 https://regex101.com/ 
+
 https://www.regextester.com/ 
 
 Task #02: (a)- Compile & Run a C program in CMD ( using gcc compiler). (b)- Compile & Run a Java program in CMD. (c)- Run a python script in CMD 
