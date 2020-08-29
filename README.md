@@ -6,7 +6,11 @@ https://regex101.com/
 
 https://www.regextester.com/ 
 
-Task #02: (a)- Compile & Run a C program in CMD ( using gcc compiler). (b)- Compile & Run a Java program in CMD. (c)- Run a python script in CMD 
+Task #02: 
+
+(a)- Compile & Run a C program in CMD ( using gcc compiler). 
+(b)- Compile & Run a Java program in CMD. 
+(c)- Run a python script in CMD 
 
 Task #03: Install flex and bison.
 
